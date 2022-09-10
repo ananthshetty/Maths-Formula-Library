@@ -1,4 +1,4 @@
-""" a py program using class wich contains maths methods of """
+""" a py program using class which contains maths methods of """
 # multiplication table
 # square
 # cube
